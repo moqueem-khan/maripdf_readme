@@ -53,8 +53,9 @@ Welcome to **mariPDF**, a fast, secure, and 100% free online ecosystem designed 
 
 Your data security is built into our core framework.
 * **HTTPS Encryption**: All file transmissions use secure SSL/TLS channels.
-* **Auto-Deletion**: All uploaded files are permanently deleted from our servers within 1 hour.
+* **Auto-Deletion**: All uploaded files are permanently deleted from our servers automatically within 15 minutes.
 * **No Tracking**: We never read, analyze, copy, or share your document contents.
+* **Browser Side Tools**: Most of the tools are running inside client browser. These files are never uloaded on the server for processing. 
 
 ---
 
