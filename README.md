@@ -39,6 +39,16 @@ Welcome to **mariPDF**, a fast, secure, and 100% free online ecosystem designed 
 
 ---
 
+## 💻 Built With
+
+**mariPDF** is engineered for speed, cross-platform compatibility, and high security using a modern enterprise tech stack:
+
+* **Backend Framework**: [ASP.NET Core](https://microsoft.com) (C#) — delivers high-throughput, low-latency document processing and robust security.
+* **Frontend**: HTML5, CSS3, and JavaScript — optimized for fast browser rendering and full mobile responsiveness.
+* **Deployment**: Cross-platform ready, running efficiently across cloud environments.
+
+---
+
 ## 🔒 Privacy & Security Commitment
 
 Your data security is built into our core framework.
